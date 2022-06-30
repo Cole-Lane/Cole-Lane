@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cole-Lane
 - 👀 I’m interested in Artifical Intelligence, Digital Production Arts and Games.
-- 🌱 I’m currently learning about web development (delving into Ruby on Rails and CSS) and databases (mostly PostGres).
+- 🌱 I’m currently learning about web development (delving into Javascript and CSS) and databases (SQL server and now MongoDB).
 - 💞️ I’m looking to collaborate on just about anything, given I have the time. I love to help and learn in the process!
 - 📫 Find me on LinkedIn or FaceBook and send me a message! https://www.linkedin.com/in/cole-lane-b78a5083/ 
 
