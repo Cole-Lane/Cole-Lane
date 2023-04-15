@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Cole-Lane
-- 👀 I’m interested in Artifical Intelligence, Digital Production Arts and Games.
-- 🌱 I’m currently learning about web development (delving into Javascript and CSS) and databases (SQL server and now MongoDB).
-- 💞️ I’m looking to collaborate on just about anything, given I have the time. I love to help and learn in the process!
-- 📫 Find me on LinkedIn or FaceBook and send me a message! https://www.linkedin.com/in/cole-lane-b78a5083/ 
+- 🤔 I’m interested in artifical intelligence, video games, and front-end development.
+- 🌱 I've worked with mobile applications (Javascript and React Native) and databases (MongoDB).
+- 🤝 I’m open to collaborate on different projects. I love to help and learn in the process!
+- 📫 Find me on LinkedIn and send me a message! https://www.linkedin.com/in/cole-lane-b78a5083/ 
 
 <!---
 Cole-Lane/Cole-Lane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
